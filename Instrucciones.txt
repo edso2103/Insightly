@@ -1,0 +1,18 @@
+Bienvenid@ a Insightly, nuestra aplicación de entrevistas avanzada, diseñada para optimizar tus procesos de interacción y análisis. Con herramientas que permiten archivos multimedia (video y audio), entrada de texto directa, grabación de voz en vivo y análisis de expresiones, cada una con su respectivo análisis 'analisis_entrevista.html'
+
+Instrucciones de uso:
+Para acceder a las herramientas, hay dos opciones disponibles:
+
+1. Ejecutable "Insightly.exe":
+
+* Ubica el archivo ejecutable "Insightly.exe" en la carpeta "dist".
+* Haz clic en el archivo para iniciar la aplicación y acceder a las herramientas
+Nota: En este modo no se encuentra habilitada la opción de reconocimiento de expresiones
+
+Espero esta herramienta sea de utilidad para ti, recuerda que es la primera versión así que cualquier recomendación o problema que tengas util para mejorar la herramienta. 
+
+Correo: insightly97@gmail.com
+
+
+
+~Creado por: Sofia Orjuela~
