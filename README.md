@@ -15,7 +15,7 @@ Insightly es una herramienta completa diseñada para el análisis de entrevistas
 * Clona este repositorio en tu máquina local.
 * Crea un entorno e instala las bibliotecas del archivo requirements.txt
 * Ejecuta el siguiente comando para crear el ejecutable:
-_**flet pack .\interfaz-final.py --name Insightly --icon .\assets\static\icono.pn**_<br><br>
+_**flet pack .\interfaz-final.py --name Insightly --icon .\assets\static\icono.png --add-data "assets;assets" --add-data "entorno\Lib\site-packages\sentiment_analysis_spanish;sentiment_analysis_spanish"**_<br><br>
 Una vez creado, podrás encontrar el ejecutable en el directorio resultante<br><br>
 
 ![image](https://github.com/edso2103/Insightly/assets/65740725/d15b85a4-f114-4c48-8905-ff3351bc2ab6)
